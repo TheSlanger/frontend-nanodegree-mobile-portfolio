@@ -15,6 +15,7 @@ Some useful tips to help you get started:
 
   ```bash
   $> cd /path/to/your-project-folder
+  $> python -m http.server 8080 // python 3+
   $> python -m SimpleHTTPServer 8080
   ```
 
